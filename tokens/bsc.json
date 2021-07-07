@@ -1,18 +1,82 @@
 [
   {
-    "name": "BUSD Token",
-    "symbol": "BUSD",
-    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
-  },
-  {
     "name": "WBNB Token",
     "symbol": "WBNB",
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+  },
+  {
+    "name": "ETH Token",
+    "symbol": "ETH",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/ETH-1C9/logo.png"
+  },
+  {
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BTCB-1DE/logo.png"
+  },
+  {
+    "name": "CAKE Token",
+    "symbol": "CAKE",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/CAKE-435/logo.png"
+  },
+  {
+    "name": "ALPACA Token",
+    "symbol": "ALPACA",
+    "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/alpacafinance_32.png"
+  },
+  {
+    "name": "AUTO Token",
+    "symbol": "AUTO",
+    "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/autofarm_32.png"
+  },
+  {
+    "name": "BUNNY Token",
+    "symbol": "BUNNY",
+    "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/pancakebunny_32.png"
+  },
+  {
+    "name": "WEX Token",
+    "symbol": "WEX",
+    "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/waultswap_32.png?=v1"
+  },
+  {
+    "name": "BSW Token",
+    "symbol": "BSW",
+    "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/token/images/biswap_32.png"
   }
 ]
