@@ -1,12 +1,11 @@
 const { version } = require("../package.json");
 
 const bsc = require("../tokens/bsc.json");
-const bscTestnet = require("../tokens/bsc-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "SushiSwap Menu",
+    name: "LatteSwap Coffe Menu",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -16,10 +15,9 @@ module.exports = function buildList() {
     tags: {},
     logoURI:
       "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+    keywords: ["latteswap", "default"],
     tokens: [
       ...bsc,
-      ...bscTestnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

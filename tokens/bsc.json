@@ -45,7 +45,39 @@
     "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/alpacafinance_32.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14165/small/Logo200.png?1614748442"
+  },
+  {
+    "name": "XVS Token",
+    "symbol": "XVS",
+    "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12677/small/venus.png?1618319812"
+  },
+  {
+    "name": "EPS Token",
+    "symbol": "EPS",
+    "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14498/small/ellipsis.png?1616556354"
+  },
+  {
+    "name": "BELT Token",
+    "symbol": "BELT",
+    "address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14319/small/belt_logo.jpg?1615387083"
+  },
+  {
+    "name": "MDX Token",
+    "symbol": "MDX",
+    "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13775/small/mdex.png?1611739676"
   },
   {
     "name": "AUTO Token",
@@ -53,7 +85,55 @@
     "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/autofarm_32.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
+  },
+  {
+    "name": "BSW Token",
+    "symbol": "BSW",
+    "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/16845/small/biswap.png?1625388985"
+  },
+  {
+    "name": "WEX Token",
+    "symbol": "WEX",
+    "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14882/small/200x200_logo_in_circle_wswap.png?1624012445"
+  },
+  {
+    "name": "O3 Token",
+    "symbol": "O3",
+    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15460/small/o3.png?1620904316"
+  },
+  {
+    "name": "BIFI Token",
+    "symbol": "BIFI",
+    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13671/small/ysYIu7Q.png?1610679337"
+  },
+  {
+    "name": "BAKE Token",
+    "symbol": "BAKE",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12588/small/bakerytoken_logo.jpg?1600940032"
+  },
+  {
+    "name": "BANANA Token",
+    "symbol": "BANANA",
+    "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14870/small/apeswap_logo.png?1618816826"
   },
   {
     "name": "BUNNY Token",
@@ -64,19 +144,11 @@
     "logoURI": "https://bscscan.com/token/images/pancakebunny_32.png"
   },
   {
-    "name": "WEX Token",
-    "symbol": "WEX",
-    "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
+    "name": "DOGE Token",
+    "symbol": "DOGE",
+    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
     "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/waultswap_32.png?=v1"
-  },
-  {
-    "name": "BSW Token",
-    "symbol": "BSW",
-    "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/biswap_32.png"
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256"
   }
 ]
